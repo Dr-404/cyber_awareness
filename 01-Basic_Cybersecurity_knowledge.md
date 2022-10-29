@@ -2,7 +2,7 @@
 
 
 
-- Based on `IBM report`, human error were the main reson for `95%` of successful cyber attack
+- Based on `IBM report`, human error were the main reason for `95%` of successful cyber attack
 
 - Everyone has responsibility to be security-awareness
 
@@ -50,8 +50,8 @@
 
 ## Using Microsoft Office for Phishing
 
-- Some email contain MS office document as attachement (word, excel, powerpoint)
-- Office Document can containg `macros` 
+- Some email contain MS office document as attachment (word, excel, PowerPoint)
+- Office Document can contain `macros` 
 - `macros` can do to run commands and that can cause `malware` to be install on your computer
 
 
@@ -94,12 +94,30 @@
 - **Attachments may contain virus, malware, ransomware**
 - verify any attachment before opening
 
-## 2. Use smart password practices
+## 2. Purchase anti-virus
+- Not 100% detection, but help to defend social engineering attack
+
+## 3. Never use `Window 7`
+- Window 7 can easily exploit and stopped security support by Microsoft
+
+
+## 3. Use smart password practices
 
 - `Unique account, unique password`
 - Never told your `password` or `password hint` to anyone
 
-## Example Youtube video about password security
+## Example YouTube video about password security
 
 You can get password simply ask you ==> [youtube_video](https://youtu.be/opRMrEfAIiI?t=42)
 
+
+
+
+# SE attack Demonstration
+
+1. `sudo setoolkit`
+2. choose `social-engineering Attacks` and `create a payload and listener`
+3. use `5` ==> `Window Meterpreter Reverse_TCP`
+4. Type LHOST IP
+5. Copy payload to Window Computer
+6. Use Command `screenshot`
