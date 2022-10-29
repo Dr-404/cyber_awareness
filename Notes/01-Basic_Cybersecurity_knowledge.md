@@ -17,7 +17,7 @@
 ## Type of Social Engineering Attack
 
 
-![Type of Social Engineering](./photo/socialEngineering.jpg)
+![Type of Social Engineering](../photo/socialEngineering.jpg)
 
 ## Phishing
 
@@ -46,7 +46,7 @@
 #### 3. Script Spoofing
 
 - Domain Name were made up of Latin characters
-![script_spoof](./photo/scriptspoof.png)
+![script_spoof](../photo/scriptspoof.png)
 
 ## Using Microsoft Office for Phishing
 
